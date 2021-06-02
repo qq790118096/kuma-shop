@@ -1,0 +1,9 @@
+github.com/garyburd/redigo v1.6.2 h1:yE/pwKCrbLpLpQICzYTeZ7JsTA/C53wFTJHaEtRqniM=
+github.com/garyburd/redigo v1.6.2/go.mod h1:NR3MbYisc3/PwhQ00EMzDiPmrwpPxAn5GI05/YaO1SY=
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/gohouse/golib v0.0.0-20200227070740-c868bc352ec6 h1:UZ6z76KHiXGEs3LLh1laIBxFKYF3GszsMDFqQ7093vM=
+github.com/gohouse/golib v0.0.0-20200227070740-c868bc352ec6/go.mod h1:vmdaq+BhbCa1eT8Ne3BkhFrucm7mmTVVCiKFgIo6okM=
+github.com/gohouse/gorose/v2 v2.1.5 h1:ICluDyhRo6OnFpj17uFg/9zCSBbek1ve/NVQp8oGLlY=
+github.com/gohouse/gorose/v2 v2.1.5/go.mod h1:0+3EmgLkzlvw+vaj5eFhf7qsHmqS6x5VPMpWvcbaRks=
+github.com/mattn/go-sqlite3 v1.10.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
